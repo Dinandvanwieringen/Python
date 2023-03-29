@@ -31,4 +31,5 @@ def computer_guess(x):
 
 # met computer guess speel je de versie waar de computer jou getal moet raden
 # met guess moet je de computers getal raden
+# de 10 is het maximale getal. dat kan je veranderen door elk getal dat jij wilt
 computer_guess(10)
